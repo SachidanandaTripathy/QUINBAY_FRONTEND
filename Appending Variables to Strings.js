@@ -1,3 +1,5 @@
-// Only change code below this line
-const myName = "Sachidananda Tripathy. ";
-const myStr = "My name is "+myName+"from KL University";
+// Change code below this line
+const someAdjective = "one of the best company in the world.";
+let myStr = "Quinbay is ";
+myStr+=someAdjective;
+console.log(myStr);
